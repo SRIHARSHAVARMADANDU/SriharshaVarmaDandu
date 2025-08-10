@@ -44,6 +44,6 @@ I’m currently leading the **ECC to S/4HANA Bluefield Migration Program** at **
 ---
 
 📬 **Let’s Connect**  
-[LinkedIn]([(https://www.linkedin.com/in/sriharsha-varma-dandu-4a4787135/]) | [GitHub](https://github.com/SriharshaVarmaDandu)  
+[LinkedIn](https://www.linkedin.com/in/sriharsha-varma-dandu-4a4787135) | [GitHub](https://github.com/SriharshaVarmaDandu)  
 
 *"Transforming SAP and IT landscapes—one program at a time."*
