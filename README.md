@@ -1,6 +1,6 @@
 # Hi there 👋
 
-🚀 **SAP Program & Delivery Leader** | **S/4HANA Transformation Expert** | **AMS & Account Management Specialist** | **Strategic IT Partner**
+🚀 **SAP Program & Delivery Leader** | **S/4HANA Transformation Expert** | **AMS & Account Management Specialist** | **Strategic IT Partner** | **Generative AI Mastermind**
 
 ---
 
