@@ -31,7 +31,8 @@ Successfully led the **ECC to S/4HANA Bluefield Migration Program** at **Axfood 
 
 ## Certifications  
 ✅ **SAP Activate**  
-✅ **ITIL v4**  
+✅ **ITIL v5 Service**
+✅ **ITIL v4 Foundation**  
 ✅ **SAP HANA 2.0**  
 ✅ **OS/DB Migration**  
 
