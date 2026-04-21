@@ -1,11 +1,11 @@
 # Hi there 👋
 
-🚀 **SAP Program & Delivery Leader** | **S/4HANA Transformation Expert** | **AMS & Account Management Specialist** | **Strategic IT Partner** | **Generative AI Mastermind**
+🚀 **SAP Enterprise Architecture, Program & Delivery Leader** | **S/4HANA Transformation Expert** | **AMS & Account Management Specialist** | **Strategic IT Partner** | **Generative AI Mastermind**
 
 ---
 
 ## About Me  
-I’m an energetic and results-driven **SAP & IT Project/Program Manager** with **14+ years** of global experience delivering value across **S/4HANA transformations**, **complex SAP landscapes**, **AMS delivery**, and **strategic account management**. My work spans industries like **retail, manufacturing, high-tech, and the public sector**, where I bridge business vision with technology execution.  
+I’m an energetic and results-driven **SAP Certified Enterprise Architect & Project Manager** with **14+ years** of global experience delivering value across **S/4HANA transformations**, **complex SAP landscapes**, **AMS delivery**, and **strategic account management**. My work spans industries like **retail, manufacturing, high-tech, and the public sector**, where I bridge business vision with technology execution.  
 
 💼 **Current Role** 
 Post S/4 Go-Live taken charge as Team Lead for SAP BASIS and DBA Team of 12(employees and consultants) and provide new ways of working by creating Axfood IT’s first automation using MS Power Apps for repetitive tasks.
@@ -30,6 +30,7 @@ Successfully led the **ECC to S/4HANA Bluefield Migration Program** at **Axfood 
 ---
 
 ## Certifications  
+✅ **SAP Enterprise Architect**  
 ✅ **SAP Activate**  
 ✅ **ITIL v5 Service**
 ✅ **ITIL v4 Foundation**  
